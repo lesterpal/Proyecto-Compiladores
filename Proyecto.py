@@ -1,3 +1,4 @@
+# Automata de Pila
 import sys
 import time
 from tkinter import *
